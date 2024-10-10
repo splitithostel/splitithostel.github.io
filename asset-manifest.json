@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.58b4499c.css",
-    "main.js": "/static/js/main.8150f9da.js",
+    "main.js": "/static/js/main.bd52f3d3.js",
     "static/media/546504034.jpg": "/static/media/546504034.999bd1672d578341cb39.jpg",
     "static/media/464318357.jpg": "/static/media/464318357.6f20ccc56de3768012d1.jpg",
     "static/media/489250891.jpg": "/static/media/489250891.f53a7abb2de41d5b8372.jpg",
     "static/media/SplitItHostelLogo.jpg": "/static/media/SplitItHostelLogo.499b93de2763b4e822c1.jpg",
     "index.html": "/index.html",
     "main.58b4499c.css.map": "/static/css/main.58b4499c.css.map",
-    "main.8150f9da.js.map": "/static/js/main.8150f9da.js.map"
+    "main.bd52f3d3.js.map": "/static/js/main.bd52f3d3.js.map"
   },
   "entrypoints": [
     "static/css/main.58b4499c.css",
-    "static/js/main.8150f9da.js"
+    "static/js/main.bd52f3d3.js"
   ]
 }
